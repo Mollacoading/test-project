@@ -1,1 +1,12 @@
-# test-project
+div{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    text-align: justify;
+}
+.sump {
+    color: aqua;
+}

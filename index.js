@@ -1,2 +1,6 @@
-import { oneName } from "./messege.js"
-console.log(oneName)
+
+
+for (var i=0; i<=100; i++){
+    console.log(i);
+
+}
